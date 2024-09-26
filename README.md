@@ -34,3 +34,14 @@ export token="your-github-token"
 # Prerequisites
 - jq: To parse and filter JSON data.
 Install jq (if not already installed): sudo apt-get install jq
+
+
+# Error Handling
+If the required command-line arguments are not provided, the script will prompt you to enter the correct arguments. 
+For example: Please execute the script with the required arguments (user and repo name).
+
+
+
+# Author: Ankit Singh
+
+# License: This script is open-sourced and free to use.
